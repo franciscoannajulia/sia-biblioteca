@@ -1,0 +1,95 @@
+form {
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    z-index: 1;
+  }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding:0;
+    margin:0;
+  }
+
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    height:45px;
+    width: 350px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  /* Colocando cor nos lables */
+  .labels {
+    color: #FFFFFF;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+    font-size: 20px;
+  }
+
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 14%;
+    border-radius: 50%;
+  }
+
+  img.avatar:hover{
+    opacity:0.8;
+  }
+
+  .signin {
+    
+    text-align: center;
+  }
+
+
+  footer {
+    position: fixed;
+    width: 100%;
+    background-color:#3b3b3b;
+    opacity: 0.5;
+    height:30px;
+    bottom: 0px;
+    text-align:center;
+    color: white;
+    font-size: 14px;
+    font-family: 'Montserrat';
+  }
+ 
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+  }
