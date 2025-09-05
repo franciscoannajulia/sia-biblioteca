@@ -1,6 +1,6 @@
 # Título do Projeto
 
-Sistema de Biblioteca
+Sia Biblioteca
 
 ## Descrição do Projeto
 
