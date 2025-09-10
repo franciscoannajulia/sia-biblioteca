@@ -1,8 +1,4 @@
-# Título do Projeto
-
-Sia Biblioteca
-
-## Descrição do Projeto
+# Sia Biblioteca
 
 Este projeto é um sistema de gerenciamento de biblioteca desenvolvido para fins acadêmicos. Ele foi criado para auxiliar os funcionários da biblioteca da Etec Francisco Garcia, otimizando os processos de entrega e devolução de livros didáticos. O sistema busca digitalizar o controle de acervo, que era feito manualmente, para evitar a perda de informações e agilizar o trabalho dos bibliotecários.
 
